@@ -61,8 +61,8 @@ The app can be used in the real-life management process, but some features could
   1. Pillow (PIL): `pip install pillow`
   2. Python-dateutil: `pip install python-dateutil`
 * Database: MySQL:
- 1. Download and install **MySQL** using this [LINK](https://dev.mysql.com/downloads/installer/)
- 2. Install MySQL connector using the command: `pip install mysql-connector-python`
+  1. Download and install **MySQL** using this [LINK](https://dev.mysql.com/downloads/installer/)
+  2. Install MySQL connector using the command: `pip install mysql-connector-python`
 ## Set up the application
  1. Go to `sql_command.py` file then change the device (local machine) MySQL information, such as **username**, **password**, and **host**
  2. Run `sql_command.py` file once to set up the database and its tables, then insert default data into the tables (can be deleted after)
