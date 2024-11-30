@@ -66,7 +66,7 @@ The app can be used in the real-life management process, but some features could
 ## Set up the application
  1. Go to `sql_command.py` file then change the device (local machine) MySQL information, such as **username**, **password**, and **host**
  2. Run `sql_command.py` file once to set up the database and its tables, then insert default data into the tables (can be deleted after)
- 3. After all these steps: the application is ready to be used: `Main.py`
+ 3. After all these steps: the application is ready to be used: `main.py`
   
 
 
