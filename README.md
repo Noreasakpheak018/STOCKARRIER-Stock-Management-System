@@ -56,7 +56,7 @@ The app can be used in the real-life management process, but some features could
 # 🚀Intruction on how to use the application🏷️
 ## Required solfware and libraries
 * IDE for running Python: PyCharm, Visual Studio Code, etc.
-* Install Python
+* Download and install Python: [HERE](https://www.python.org/downloads/)
 * Install some Python libraries (if not yet installed):
   1. Pillow (PIL): `pip install pillow`
   2. Python-dateutil: `pip install python-dateutil`
