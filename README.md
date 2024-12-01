@@ -53,7 +53,7 @@ The app can be used in the real-life management process, but some features could
 ## 7. Project references
 * The design is inspired by **Code First with Hala** (a YouTube channel), video: [Python Excel App - Excel Viewer & Data Entry Form [Tkinter, openpyxl] Python GUI Project](https://youtu.be/8m4uDS_nyCk?si=G0PStO7G0t3XQLad)
 * Theme use: from GitHub: [Forest-ttk-theme](https://github.com/rdbende/Forest-ttk-theme)
-# 🚀Intruction on how to use the application🏷️
+# 🚀Instruction on how to use the application🏷️
 ## Required solfware and libraries
 * IDE for running Python: PyCharm, Visual Studio Code, etc.
 * Download and install Python: [HERE](https://www.python.org/downloads/)
@@ -65,7 +65,7 @@ The app can be used in the real-life management process, but some features could
   2. Install MySQL connector using the command: `pip install mysql-connector-python`
 ## Set up the application
  1. Go to `sql_command.py` file then change the device (local machine) MySQL information, such as **username**, **password**, and **host**
- 2. Run `sql_command.py` file once to set up the database and its tables, then insert default data into the tables (can be deleted after)
+ 2. Run `sql_command.py` file once to set up the database and its tables, then some default data will be inserted into the tables (can be deleted after)
  3. After all these steps: the application is ready to be used: `main.py`
 **NOTE** the application has some default items inserted, and there is only one user: **Username** : *Admin*, **Password**: *admin*
   
