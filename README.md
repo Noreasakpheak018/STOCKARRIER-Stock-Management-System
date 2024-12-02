@@ -64,10 +64,11 @@ The app can be used in the real-life management process, but some features could
   1. Download and install **MySQL** using this [LINK](https://dev.mysql.com/downloads/installer/)
   2. Install MySQL connector using the command: `pip install mysql-connector-python`
 ## Set up the application
- 1. Go to `sql_command.py` file then change the device (local machine) MySQL information, such as **username**, **password**, and **host**
- 2. Run `sql_command.py` file once to set up the database and its tables, then some default data will be inserted into the tables (can be deleted after)
- 3. After all these steps: the application is ready to be used: `main.py`
-### NOTE: the application has some default items inserted, and there is only one user: **Username** : *Admin*, **Password**: *admin*
+ 1. Download all the folders (themes folders) and files (code, image, ...). One of the way is to download them as zip, extract, then open them in IDE
+ 2. Go to `sql_command.py` file then change the device (local machine) MySQL information, such as **username**, **password**, and **host**
+ 3. Run `sql_command.py` file once to set up the database and its tables, then some default data will be inserted into the tables (can be deleted later)
+ 4. After all these steps: the application is ready to be used: `main.py`
+### NOTE: the application has some default items inserted in product table (database), and there is only one user in user table (database): **Username** : *Admin*, **Password**: *admin*
   
 
 
